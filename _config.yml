@@ -16,7 +16,7 @@ baseurl: ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang: en-au
+lang: en
 # The title of your blog. Used in the sidebar and the browser tab.
 title: Jason Phillips
 # A short description (~150 chars) of the page used for the meta description tag.
@@ -43,7 +43,7 @@ menu:
   - title: Blog
     url: /posts/
   - title: Azure
-    url: /about/
+    url: /azure/
   - title: Udemy Courses
     url: /udemy/
 # Add links to the footer.
