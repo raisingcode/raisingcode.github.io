@@ -4,8 +4,6 @@ layout: about
 description: >
   A little about me
 hide_description: false
-redirect_from:
-  - /download/
 ---
 
 <!--author-->
