@@ -3,12 +3,12 @@
 layout: grid
 
 # The title of the tag's page.
-title: Cloud
+title: Artificial Intellegence (AI)
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: [Azure, AWS, GCP]
+slug: [AI, artificialintelligence, RAG, LAMA]
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Posts associated with Cloud 
+  Check out some of my post about Artificial Intelligence
 ---
