@@ -43,7 +43,7 @@ menu:
   - title: Blog
     url: /posts/
   - title: Cloud
-    url: /Cloud/
+    url: /cloud/
   - title: Artificial Intellegence
     url: /udemy/
   - title: Microservices
