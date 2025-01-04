@@ -44,13 +44,13 @@ menu:
     url: /posts/
   - title: Cloud
     url: /cloud/
-  - title: Artificial Intellegence
-    url: /udemy/
+  - title: AI
+    url: /artificialintelligence/
   - title: Microservices
-    url: /udemy/
+    url: /microservices/
   - title: Udemy Courses
     url: /udemy/
-  - title: About
+  - title: About Me
     url: /about/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
