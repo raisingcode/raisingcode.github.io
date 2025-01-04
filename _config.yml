@@ -42,8 +42,12 @@ author:
 menu:
   - title: Blog
     url: /posts/
-  - title: Azure
-    url: /azure/
+  - title: Cloud
+    url: /Cloud/
+  - title: Artificial Intellegence
+    url: /udemy/
+  - title: Microservices
+    url: /udemy/
   - title: Udemy Courses
     url: /udemy/
   - title: About
@@ -314,7 +318,7 @@ social:
 
   links:
     - https://twitter.com/raisingcode
-    - https://github.com/raingcode
+    - https://github.com/raisingcode
     - https://linkedin.com/in/jasonronphillips
   
 
