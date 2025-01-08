@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Jason Phillips"
-title: "Velero for AKS Backup and Recovery"
+title: "Velero for AKS Disaster Recovery"
 image: "https://onthedock.github.io/images/velero.jpg"
 category: [Azure, Microservices, DisasterRecovery]
 description: The post discusses the use Velero for AKS D/R
