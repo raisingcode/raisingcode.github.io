@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Velero for Backup and Recovery
+author: "Jason Phillips"
+title: "Velero for AKS Disaster Recovery"
 image: "https://onthedock.github.io/images/velero.jpg"
-category: [AKS, Microservices, DisasterRecovery]
-description: Velero for backup and recovery of AKS services? Why does AKS services need to be backedup? I'll review a use-case I recently implemented velero.
+category: [Azure, Microservices, DisasterRecovery]
+description: The post discusses the use Velero for AKS D/R
 ---
 
-# Overview
+# Velero for Backup and Recovery
 Velero gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes. You can run Velero with a cloud provider or on-premises. 
 
 ## But why...
