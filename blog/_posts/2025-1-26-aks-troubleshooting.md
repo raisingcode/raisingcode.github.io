@@ -5,21 +5,19 @@ author: "Jason Phillips"
 date: 2025-01-26
 categories: [Kubernetes, AKS, Troubleshooting]
 tags: [AKS, Kubernetes, Azure, Troubleshooting]
-image: "https://www.morioh.com/assets/images/morioh_thumbnail.png"
+image: "https://cdn.dribbble.com/users/464226/screenshots/11224552/wp_kubernetes_illustrations_v2-03.png"
 layout: post
 ---
 
 # Troubleshooting Common AKS Issues Like a Pro
 
-![Kubernetes Cluster Illustration](https://www.morioh.com/assets/images/morioh_thumbnail.png)  
-*An overview of a Kubernetes cluster with interconnected nodes and diagnostic tools.*
+![Kubernetes Illustration](https://cdn.dribbble.com/users/464226/screenshots/11224552/wp_kubernetes_illustrations_v2-03.png)  
+*An abstract representation of Kubernetes architecture.*
 
 ## Introduction
 Azure Kubernetes Service (AKS) simplifies Kubernetes management, but troubleshooting issues is essential for production stability. This guide outlines common issues and efficient troubleshooting strategies.
 
 ## Common AKS Issues
-![AKS Issues](https://www.morioh.com/assets/images/morioh_thumbnail.png)  
-*Visual representation of common AKS issues like pod scheduling and networking errors.*
 
 - **Cluster Creation Failures**
 - **Pod Scheduling Problems**
@@ -44,9 +42,6 @@ Azure Kubernetes Service (AKS) simplifies Kubernetes management, but troubleshoo
 - Use `kubectl describe pod`.
 
 ### Networking Errors
-![Networking Troubleshooting](https://www.morioh.com/assets/images/morioh_thumbnail.png)  
-*Example setup of networking diagnostics in AKS.*
-
 - Diagnose with `kubectl get services` and `kubectl get ingress`.
 - Verify Network Security Group (NSG) rules.
 
@@ -59,9 +54,6 @@ Azure Kubernetes Service (AKS) simplifies Kubernetes management, but troubleshoo
 - Investigate node conditions with `kubectl describe node`.
 
 ## Pro Tips for Efficient Troubleshooting
-![Pro Tips](https://www.morioh.com/assets/images/morioh_thumbnail.png)  
-*Highlighted pro tips for troubleshooting AKS efficiently.*
-
 - Use Azure Resource Health for quick status checks.
 - Automate recurring checks with scripts.
 - Leverage AKS diagnostics and self-healing mechanisms.
@@ -71,8 +63,8 @@ Azure Kubernetes Service (AKS) simplifies Kubernetes management, but troubleshoo
 - [Kubernetes Official Troubleshooting Guide](https://kubernetes.io/docs/tasks/debug-application-cluster/)
 - Community tools like K9s and Lens.
 
-## Need Help?  
-If you’re still facing issues or need expert guidance, don’t hesitate to get in touch.  
+## Need Help?
+If you’re still facing issues or need expert guidance, don’t hesitate to get in touch.
 
 - **Author:** Jason Phillips  
 - **Contact:** [Contact Page](https://www.jasonphillips.cloud/contact)  
