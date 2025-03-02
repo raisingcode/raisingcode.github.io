@@ -4,6 +4,7 @@ title: "Lessons Learned from Deploying Confluent Kafka on AKS"
 date: 2025-03-01
 categories: [kubernetes, kafka, azure]
 tags: [aks, kafka, confluent, kubernetes]
+image: /assets/img/kafka-spash.jpg
 ---
 
 # Lessons Learned from Deploying Confluent Kafka on AKS
