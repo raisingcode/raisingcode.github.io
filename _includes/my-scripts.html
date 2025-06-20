@@ -5,6 +5,15 @@ CloudFlare will inject this on every page, but due to Hydejack's push state appr
 it will only run on the initial page.
 The snippet below will run the code on every `hy-push-state-load` event instead.
 -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X59LQ8L5BK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X59LQ8L5BK');
+</script>
 <script>
   document.getElementById('_pushState').addEventListener('hy-push-state-load', function (e) {
     function e(e){
