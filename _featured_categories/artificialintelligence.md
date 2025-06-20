@@ -6,7 +6,7 @@ layout: grid
 title: Artificial Intellegence (AI)
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: [AI, artificialintelligence, RAG, LAMA]
+slug: AI
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
