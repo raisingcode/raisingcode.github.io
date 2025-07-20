@@ -2,7 +2,7 @@
 layout: post
 title: "Video | Packer Demo"
 description:  "Below is you tube vlog I made on using packer"
-image: https://img.youtube.com/vi/kRnfY6R4sK8/default.jpg
+image: /assets/img/youtube_packer.jpg
 permalink: "my-first-post"
 tags: [youtube, packer]
 youtube:
