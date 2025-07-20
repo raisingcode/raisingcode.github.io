@@ -6,6 +6,8 @@ permalink: "my-first-post"
 tags: [youtube, packer]
 youtube:
   video_id: "kRnfY6R4sK8"
+  thumbnail: 
+    default: "https://img.youtube.com/vi/kRnfY6R4sK8/default.jpg"
 ---
 # Overview 
 Just a quick test
