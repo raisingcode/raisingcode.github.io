@@ -315,7 +315,7 @@ Policies can run in different modes:
 
 | Mode | Behavior | Use Case |
 |------|----------|----------|
-| **Enforce** | Blocks non-compliant resources | Production protection |
+| **Deny** | Blocks non-compliant resources | Production protection |
 | **Audit** | Logs violations but allows creation | Testing impact |
 | **Disabled** | Policy not evaluated | Temporary relief |
 
@@ -460,5 +460,6 @@ In Part 2, we'll tackle:
 Remember: These policies exist to protect your cluster. The goal is to work with them, not against them. Once you understand the basics, you can make informed decisions about when to comply and when to seek exemptions.
 
 ---
+
 
 *Stay tuned for Part 2 coming soon! We'll dive into advanced scenarios including enterprise software challenges (Confluent Kafka, databases, operators), policy exemption strategies, and real-world workarounds for when policies clash with production requirements.*
