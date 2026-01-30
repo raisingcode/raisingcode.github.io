@@ -5,7 +5,7 @@ author: "Jason Phillips"
 date: 2026-01-29
 categories: [Azure, Infrastructure as Code, DevOps, Automation]
 tags: [Azure, Terraform, Excel, IaC, VBA, Cloud Automation]
-image: "https://raw.githubusercontent.com/[yourusername]/ExcelAsCode/main/docs/images/meme-server-vs-devops.png"
+image: /assets/img/excelascode.png
 layout: post
 ---
 
