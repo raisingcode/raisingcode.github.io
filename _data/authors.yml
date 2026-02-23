@@ -8,8 +8,22 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-   Cloud Architect primary focused on solving solutions for applicatons. Developer at heart.
-   Passionate about emerging technology and software patterns.
+    **Jason Renauld Phillips** is a Principal Cloud Architect and technologist based in Gilbert, Arizona. He believes in the power of building scalable, intelligent systems and bridging the gap between complex infrastructure and everyday usability—all while living a life full of exploration outside the terminal.
+
+    **The Architect & Engineer**
+    Jason’s professional journey is dedicated to designing enterprise-grade cloud ecosystems and enabling AI solutions for major organizations across the Fortune 50, telecommunications, and utility sectors. He specializes in multi-cloud architecture across Azure, AWS, and GCP. Whether orchestrating containerized deployments with Kubernetes and Infrastructure as Code (Terraform, Ansible) or optimizing infrastructure to achieve 35% cost reductions and 99.99% uptime, his focus is consistently on delivering tangible, high-impact outcomes. 
+
+    While his recent work is deeply involved in MLOps and AI model enablement, his roots run deep in full-stack .NET development. He actively keeps his skills sharp by getting hands-on with modern frameworks like React, TypeScript, Next.js, and Material-UI. 
+
+    **The Builder**
+    Passionate about democratizing technology, Jason strives to make cloud management accessible. This drive led him to create **excelascode**, an open-source tool that empowers users to manage complex cloud virtual machines entirely from a familiar Excel spreadsheet. 
+
+    **Beyond the Screen**
+    When he is not architecting cloud solutions or writing code, Jason is constantly on the move. He is a massive Electric Vehicle advocate—frequently deep-diving into the specs of the newest models, comparing charging networks, and testing out the latest EV tech on the road.
+
+    He is also an avid global traveler with a deep love for Southeast Asia. His adventures range from taking tandem paramotor flights over Pattaya, Thailand, to exploring the vibrant coasts of Vietnam and the Philippines, as well as trips up to Canada. He believes in gathering diverse experiences across the globe.
+
+    Back home in the East Valley, Jason is all about balance. He spends his downtime hitting the gym, hunting down the best local sushi and pizza spots, and exploring the lore of his favorite comic, movie, and gaming franchises, particularly Mortal Kombat, Marvel, and DC.
 
   # This photo will be used in the about section
   picture:            /assets/img/me.jpg
