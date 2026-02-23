@@ -8,10 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    **Jason is a Cloud Architect and Technologist based in Arizona. He believes in the power of building scalable, intelligent systems and bridging the gap between complex infrastructure and everyday usability—all while living a life full of exploration outside the terminal.
-
-    **The Architect & Engineer**
-    Jason’s professional journey is dedicated to designing enterprise-grade cloud ecosystems and enabling AI solutions for major organizations across the Fortune 50, telecommunications, and utility sectors. He specializes in multi-cloud architecture across Azure, AWS, and GCP. Whether orchestrating containerized deployments with Kubernetes and Infrastructure as Code (Terraform, Ansible) or optimizing infrastructure to achieve 35% cost reductions and 99.99% uptime, his focus is consistently on delivering tangible, high-impact outcomes. 
+    # Professional
+    **Jason is a Cloud Architect and Technologist based in Arizona driving a multi-cloud architecture solutions across Azure, AWS, and GCP. 
+    Whether orchestrating containerized deployments with Kubernetes and Infrastructure as Code (Terraform, Ansible) or optimizing infrastructure to achieve 35% cost reductions and 99.99% uptime, his focus is consistently on delivering tangible, high-impact outcomes. 
 
     While his recent work is deeply involved in MLOps and AI model enablement, his roots run deep in full-stack .NET development. He actively keeps his skills sharp by getting hands-on with modern frameworks like React, TypeScript, Next.js, and Material-UI. 
 
