@@ -9,7 +9,7 @@ image: /assets/img/google_learn.png
 layout: post
 ---
 
-# TLDR #
+# Different is Google from Other Cloud Provides
 Recently, I was pulled into several projects focused on setting up hybrid connectivity and ensuring corporate boundary controls (such as "deny all" inbound to private networks). 
 
 I felt pretty confident with my skills in Azure and AWS. I assumed GCP would be similar, but being wrong would be an understatement. GCP is a whole different animal. Not in a bad way, but there are several differentiating factors that should be called out if you ever find yourself in the middle of a hybrid network implementation on GCP.
