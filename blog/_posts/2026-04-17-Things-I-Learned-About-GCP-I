@@ -1,0 +1,36 @@
+---
+title: "Things I learned about GCP Networking: Part 1"
+description: "As organizations adopt Infrastructure as Code best practices, infrastructure teams face a dilemma: they're not developers, but they need to deploy infrastructure with Terraform, ARM, or Bicep. What if the solution was already sitting on everyone's desktop?"
+author: "Jason Phillips"
+date: 2026-01-29
+categories: [Azure, Infrastructure as Code, DevOps, Automation]
+tags: [Azure, Terraform, Excel, IaC, VBA, Cloud Automation]
+image: /assets/img/google_learn.png
+layout: post
+---
+
+# TLDR #
+Recently I was pulled into several projects.Primary working to setup hybrid connectivity and ensuring corporate boundary countrols where implementes (deny all inbound to private network etc.)
+I felt pretty confident with my skills with Azure and AWS. GCP I assumed would be similiar but I being wrong would be an understatement. 
+GCP is whole different animal. Not in bad way but there are several differenting factors that should be called out if you ever find your self in the middle of hybrid network implementation of GCP
+
+
+# Virtual Networks are Global
+Unlike Azure and AWS where virtual networks are regional. GCP's SDN or softare defined network enables network connecitivitity in Global space. 
+Alternatively subnets are regional constructs.
+
+# Private End Points / PSC
+Another obvious is private endpoint service function. In azure private ends are attached  to PaaS services or internal load balancer service (private link scope) for that allows for a private connect to resource on the virtual network or from on-prem in a hybrid network.
+In GCP those solutions solutions are typically in the for PSC private service connection or private access gateway.
+
+#Security Group
+In GCP you wont see the word security group. Google offers firewall on vpc and subnes. They also offer a concept called vpc service controls. These service actually provide a boundary around a network or a project or a event a service account (something unique I havent seen packaged with other cloud accounts). Entra-ID in Microsoft has ways to enabled with conditional access polices or workerload identitay addtional offering but its right there in middle as service in gcp.
+
+#Interconnects and Cloud Routers
+Interconnect is probally more the straight forward services that 'clicked' with me right away in that privades a dedicated connection to from a co-lo provider Equinix/MegaPort etc to cloud (DirectConnect/ExpressRoute)
+Cloud Routers function like a Virtual Network Gateway or Transit Gateway. You must add advertise certain routes for private endpoints and (PSC) and DNS forwarding for things back to on prem . This has a little more involvment than i requires in other clouds
+
+# Logging
+Logging can configured for the VPC or subnet . It was works as I would expect like Cloud Watch.
+
+
