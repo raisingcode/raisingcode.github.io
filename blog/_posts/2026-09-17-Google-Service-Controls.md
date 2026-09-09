@@ -1,4 +1,4 @@
---
+---
 title: "Learnings from Google Service Controls in Large Organizations"
 description: "We agreed to follow Google's recommendations to enable VPC-SC here's what we learned"
 author: "Jason Phillips"
